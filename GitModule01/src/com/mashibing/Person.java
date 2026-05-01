@@ -9,4 +9,5 @@ package com.mashibing;
 public class Person {
      private int age;
      private double weight;
+     private String name;
 }
